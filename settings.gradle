@@ -1,0 +1,3 @@
+include ':ledcontrol'
+include ':app'
+rootProject.name = "AduinoBluetooth"
